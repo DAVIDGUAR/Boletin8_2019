@@ -15,7 +15,11 @@ public class Boletin8_2_2019 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+    
+        Calcular calcu1=new Calcular();
+        
+        calcu1.calcular_precio();
+        System.out.println(calcu1); 
     }
     
 }
