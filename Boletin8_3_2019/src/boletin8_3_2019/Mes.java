@@ -20,7 +20,7 @@ public class Mes {
 
     public Mes() {
 
-     //   this.num_mes = Integer.parseInt(JOptionPane.showInputDialog("Elige mes :\n 1. 1= ENERO.\n 2= FEBRERO.\n 3= MARZO.\n 4= ABRIL.\n 5= MAYO.\n 6= JINIO.\n 7= JULIO.\n 8= AGOSTO.\n 9= SEPTIEMBRE.\n 10= OCTUBRE.\n 11= NOVIEMBRE.\n 12= DICIEMBRE."));
+    
 
     }
 
