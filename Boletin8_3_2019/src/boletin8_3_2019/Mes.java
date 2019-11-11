@@ -28,7 +28,7 @@ public class Mes {
 
         while (a == true) {
 
-            this.num_mes = Integer.parseInt(JOptionPane.showInputDialog("Elige mes :\n 1. 1= ENERO.\n 2= FEBRERO.\n 3= MARZO.\n 4= ABRIL.\n 5= MAYO.\n 6= JINIO.\n 7= JULIO.\n 8= AGOSTO.\n 9= SEPTIEMBRE.\n 10= OCTUBRE.\n 11= NOVIEMBRE.\n 12= DICIEMBRE."));
+            this.num_mes = Integer.parseInt(JOptionPane.showInputDialog("Elige un numero :\n 1= ENERO.\n 2= FEBRERO.\n 3= MARZO.\n 4= ABRIL.\n 5= MAYO.\n 6= JINIO.\n 7= JULIO.\n 8= AGOSTO.\n 9= SEPTIEMBRE.\n 10= OCTUBRE.\n 11= NOVIEMBRE.\n 12= DICIEMBRE."));
 
             switch (num_mes) {
 
